@@ -1,0 +1,9 @@
+{
+  "tokens": [
+    {
+      "user": "BfxPipe workflows",
+      "contact": "workflows@bfxpipe.com",
+      "token_file": "bfxpipe_pubkey.der"
+    }
+  ]
+}
